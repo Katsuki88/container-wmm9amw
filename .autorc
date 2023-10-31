@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Katsuki88",
+  "repo": "container-wmm9amw",
+  "name": "Katsuki88",
+  "email": "teeangly028@gmail.com",
+}
